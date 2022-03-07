@@ -1,6 +1,6 @@
 # maskify
 
-A new Flutter project.
+Mask detection app developed in Flutter, program was trained using various data sets(tensorflow, tflite used).
 
 ## Getting Started
 
